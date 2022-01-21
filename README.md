@@ -108,7 +108,7 @@ And these are the results
 | Y  | 2/3, 5 wrong  |
 | Z  | 0  |
 
-#Sample detecting letter 'B'
+## Sample detecting letter 'B'
 
 ![Sample detecting letter 'B'](https://github.com/AdhamKhalifa/BrailleDetector/blob/main/screenshot_b.png?raw=true)
 

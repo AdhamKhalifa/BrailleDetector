@@ -110,7 +110,7 @@ And these are the results
 
 #Sample detecting letter 'B'
 
-![Sample detecting letter 'B'](https://github.com/AdhamKhalifa/BrailleDetector/blob/main/screenshot.png?raw=true)
+![Sample detecting letter 'B'](https://github.com/AdhamKhalifa/BrailleDetector/blob/main/screenshot_b.png?raw=true)
 
 
 

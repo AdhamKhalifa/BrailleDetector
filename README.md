@@ -41,7 +41,7 @@ Initial
 | Z  | 0  |
 
 
-Then I counted the number of occurrences after removing abbreviations. I used this website (https://www.brailletranslator.org/) that converts text to Braille and changes the text to the standard form, so it eliminates and abbreviations and leaves only regular letters
+Then I counted the number of occurrences after removing abbreviations. I used this website (https://www.brailletranslator.org/) that converts text to Braille and changes the text to the standard form, so it eliminates any abbreviations and leaves only regular letters
 
 Initial (Without abbreviations)
 | Letter  | # occurrences after w/o abbr |

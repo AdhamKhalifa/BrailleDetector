@@ -117,7 +117,7 @@ And these are the results
 
 Evaluation:
 
-Number of correct detected letters: 94
+Number of correct detected letters: 94 <br/>
 Total number of letters: 139
 
 Success rate of **67.6%**

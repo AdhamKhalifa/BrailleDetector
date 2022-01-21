@@ -108,6 +108,11 @@ And these are the results
 | Y  | 2/3, 5 wrong  |
 | Z  | 0  |
 
+#Sample detecting letter 'B'
+
+![Sample detecting letter 'B'](https://github.com/AdhamKhalifa/BrailleDetector/blob/main/screenshot.png?raw=true)
+
+
 
 
 Evaluation:
@@ -118,3 +123,4 @@ Total number of letters: 139
 Success rate of **67.6%**
 
 I am interested in working on a more robust version of the project to include abbreviations, shortcuts, and maybe a real-time version of it.
+

@@ -115,6 +115,6 @@ Evaluation:
 Number of correct detected letters: 94
 Total number of letters: 139
 
-Success rate of 67.6%
+Success rate of **67.6%**
 
 I am interested in working on a more robust version of the project to include abbreviations, shortcuts, and maybe a real-time version of it.

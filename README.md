@@ -1,4 +1,5 @@
-# BrailleDetectorIn this project, I am trying to detect Braille dot groups on a piece of paper and convert it back to original text. I use Template matching and lookup each letter using its template. I tried working with one template from a certain picture with specific conditions, but it didn’t work for the same paper with different conditions. That made me think that I should rather focus on finding dots on one picture for each template.
+# BrailleDetector
+In this project, I am trying to detect Braille dot groups on a piece of paper and convert it back to original text. I use Template matching and lookup each letter using its template. I tried working with one template from a certain picture with specific conditions, but it didn’t work for the same paper with different conditions. That made me think that I should rather focus on finding dots on one picture for each template.
 
 In this example, the program detects standard Braille alphabet only, but without abbreviations and shortcuts ( things like “ing”, “he/him”, “th”, “st”, etc). Here’s the result of the experiment:
 
@@ -7,8 +8,9 @@ I started with an initial table of letters and their number of occurrences (igno
 Without P, Q, Z because they weren’t available in the textbook I picked.
 Initial
 
-| A  | 5 |
+| Letter  | # of occurences |
 | ------------- | ------------- |
+| A  | 5 |
 | (a)  | 23  |
 | Aa  | 27  |
 | B  | 9  |
@@ -42,8 +44,9 @@ Initial
 Then I counted the number of occurrences after removing abbreviations. I used this website (https://www.brailletranslator.org/) that converts text to Braille and changes the text to the standard form, so it eliminates and abbreviations and leaves only regular letters
 
 Initial (Without abbreviations)
-| A  | 5 |
+| Letter  | # occurrences after w/o abbr |
 | ------------- | ------------- |
+| A  | 5 |
 | (a)  | 12  |
 | Aa  | 17  |
 | B  | 9  |
@@ -74,8 +77,9 @@ Initial (Without abbreviations)
 
 And these are the results
 
-| A  | 3/5 |
+| Letter  | Correct detections |
 | ------------- | ------------- |
+| A  | 3/5 |
 | (a)  | 6/12  |
 | Aa  | 9/17  |
 | B  | 9/9  |

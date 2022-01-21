@@ -1,5 +1,5 @@
 # BrailleDetector
-In this project, I am trying to detect Braille dot groups on a piece of paper and convert it back to original text. I use Template matching and lookup each letter using its template. I tried working with one template from a certain picture with specific conditions, but it didn’t work for the same paper with different conditions. That made me think that I should rather focus on finding dots on one picture for each template.
+In this project, I am trying to detect Braille dot groups on a piece of paper and convert it back to original text. I use Template Matching and lookup each letter using its template. I tried working with one template from a certain picture with specific conditions, but it didn’t work for the same paper with different conditions. That made me think that I should rather focus on finding dots on one picture for each template.
 
 In this example, the program detects standard Braille alphabet only, but without abbreviations and shortcuts ( things like “ing”, “he/him”, “th”, “st”, etc). Here’s the result of the experiment:
 

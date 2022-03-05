@@ -122,5 +122,4 @@ Total number of letters: 139
 
 Success rate of **67.6%**
 
-I am interested in working on a more robust version of the project to include abbreviations, shortcuts, and maybe a real-time version of it.
-
+This project was my final for the Computer Vision COM322 class at Connecticut College with Prof. Ozgur Izmirli.
